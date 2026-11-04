@@ -1,0 +1,4 @@
+# clangd (Serena / clangd-lsp): host build compile DB.
+# Regenerate: cmake -S darkest -B darkest/cmake-build-clangd -DDD_HOST=ON -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+CompileFlags:
+  CompilationDatabase: darkest/cmake-build-clangd
