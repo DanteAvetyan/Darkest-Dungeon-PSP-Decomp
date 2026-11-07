@@ -76,13 +76,13 @@ You should see a line mentioning `libvorbis`. The extractor also checks this for
 
 ## Step 5: Get SpineConverter2.1.27 (reads the game's animations)
 
-The game's character animations are in Spine's binary format. A small Python tool called SpineConverter2.1.27 reads them. Download it from: **[SPINECONVERTER LINK GOES HERE]**
+The game's character animations are in Spine's binary format. A small Python tool called SpineConverter2.1.27 reads them. Download it from: https://github.com/DanteAvetyan/Darkest-Dungeon-PSP-Decomp-Extractor
 
 Unzip it. The folder you will pick in the extractor is the one that contains `spBinaryReader.py`.
 
 ## Step 6: Download the extractor and the EBOOT
 
-Download both from the project's releases page: **[LINK TO THIS PROJECT'S RELEASES GOES HERE]**
+Download both from the project's releases page: https://github.com/DanteAvetyan/Darkest-Dungeon-PSP-Decomp/releases
 
 - `DDExtractor.zip` is the extractor tool. Unzip it anywhere.
 - `EBOOT.PBP` is the game program for the PSP.
