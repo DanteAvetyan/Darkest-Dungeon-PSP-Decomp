@@ -3,3 +3,5 @@ tools/third_party/
 **/cmake-build-*/
 __pycache__/
 darkest/tools/
+.idea/
+.gitignore
